@@ -155,10 +155,6 @@ Your compositor or window manager doesn't support transparency, or it's not enab
 
 On KDE, go into the `Display and Monitor` settings, then `Compositor`, and tick `Enable compositor on startup`.
 
-### The overlay shows but I can't click anything
-
-The window couldn't be made click-through. This is a window manager/compositor limitation.
-
 ### The overlay doesn't show up
 
 Your window manager doesn't support positioning or resizing windows.
